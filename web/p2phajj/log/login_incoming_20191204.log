@@ -1,0 +1,129 @@
+Incoming from JSON: 
+2019-12-04 01:47:31	Line:13	
+Array
+(
+    [username] => rozlina1
+    [password] => rozlina1
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 01:51:22	Line:13	
+Array
+(
+    [username] => wan1
+    [password] => wan1
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 03:36:26	Line:13	
+Array
+(
+    [username] => wan1
+    [password] => wan1
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 08:57:57	Line:13	
+Array
+(
+    [username] => gue
+    [password] => gue
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 08:58:07	Line:13	
+Array
+(
+    [username] => gui
+    [password] => gui
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 08:58:10	Line:15	
+Array
+(
+    [id] => 4
+    [username] => gui
+    [latitude] => 3.03751510
+    [longitude] => 101.59135290
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:46:59	Line:13	
+Array
+(
+    [username] => helmi3
+    [password] => helmi3
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:09	Line:15	
+Array
+(
+    [id] => 5
+    [username] => helmi3
+    [latitude] => 3.73036530
+    [longitude] => 103.12423590
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:13	Line:15	
+Array
+(
+    [id] => 5
+    [username] => helmi3
+    [latitude] => 3.73036550
+    [longitude] => 103.12423680
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:15	Line:15	
+Array
+(
+    [id] => 5
+    [username] => helmi3
+    [latitude] => 3.73038810
+    [longitude] => 103.12423320
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:15	Line:15	
+Array
+(
+    [id] => 5
+    [username] => helmi3
+    [latitude] => 3.73038810
+    [longitude] => 103.12423320
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:17	Line:15	
+Array
+(
+    [id] => 5
+    [username] => helmi3
+    [latitude] => 3.73037010
+    [longitude] => 103.12423940
+)
+
+===========
+Incoming from JSON: 
+2019-12-04 09:47:36	Line:13	
+Array
+(
+    [username] => wan1
+    [password] => wan1
+)
+
+===========

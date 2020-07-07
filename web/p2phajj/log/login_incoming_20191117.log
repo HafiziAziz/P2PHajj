@@ -1,0 +1,94 @@
+Incoming from JSON: 
+2019-11-17 13:46:46	Line:13	
+
+===========
+Incoming from JSON: 
+2019-11-17 13:48:09	Line:13	
+Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 13:48:41	Line:13	
+Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 13:50:51	Line:13	
+Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 20:27:45	Line:13	
+Array
+(
+    [username] => test
+    [password] => test
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 20:36:24	Line:13	
+Array
+(
+    [username] => admin1
+    [password] => admin1
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 22:33:05	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 22:37:34	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 22:39:02	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 22:40:51	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========
+Incoming from JSON: 
+2019-11-17 22:53:34	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========

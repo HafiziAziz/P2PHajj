@@ -1,0 +1,60 @@
+Incoming from JSON: 
+2019-12-03 00:00:02	Line:13	
+Array
+(
+    [username] => gui
+    [password] => gui
+)
+
+===========
+Incoming from JSON: 
+2019-12-03 00:00:07	Line:15	
+Array
+(
+    [id] => 4
+    [username] => gui
+    [latitude] => 37.42200030
+    [longitude] => -122.08400030
+)
+
+===========
+Incoming from JSON: 
+2019-12-03 00:04:56	Line:13	
+Array
+(
+    [username] => gui
+    [password] => gui
+)
+
+===========
+Incoming from JSON: 
+2019-12-03 00:05:00	Line:15	
+Array
+(
+    [id] => 4
+    [username] => gui
+    [latitude] => 3.03740270
+    [longitude] => 101.59140700
+)
+
+===========
+Incoming from JSON: 
+2019-12-03 00:05:02	Line:15	
+Array
+(
+    [id] => 4
+    [username] => gui
+    [latitude] => 3.03747350
+    [longitude] => 101.59153120
+)
+
+===========
+Incoming from JSON: 
+2019-12-03 00:05:15	Line:13	
+Array
+(
+    [username] => gue
+    [password] => gue
+)
+
+===========

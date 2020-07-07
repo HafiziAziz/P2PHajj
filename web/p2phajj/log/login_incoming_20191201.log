@@ -1,0 +1,18 @@
+Incoming from JSON: 
+2019-12-01 19:46:08	Line:13	
+Array
+(
+    [username] => admin
+    [password] => admin
+)
+
+===========
+Incoming from JSON: 
+2019-12-01 19:46:24	Line:13	
+Array
+(
+    [username] => guest1
+    [password] => guest1
+)
+
+===========
